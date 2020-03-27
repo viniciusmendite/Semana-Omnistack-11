@@ -15,3 +15,17 @@ e React Native no mobile.
 - Axios
 - React Router Dom
 - React Icons
+
+## Mobile
+### Bibliotecas utilizadas
+- React Navigation
+- React Native Email
+- Axios
+- Intl
+
+## Dark Mode
+A maioria dos sites e apps possuem a funcionalidade dark-mode (modo escuro) e por isso decidi implementar essa funcionalidade no app.
+
+<kbd>
+<img src="https://github.com/viniciusmendite/PrintScreen/blob/master/bethehero/bethehero.gif" width="250" height="452" /> 
+</kbd>

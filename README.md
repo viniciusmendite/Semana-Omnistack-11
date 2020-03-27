@@ -1,5 +1,5 @@
 # Be The Hero
-Aplicação FullStack criada na semana OmniStack 11 da Rocketseat, utilizando Node no backend, ReactJs no frontend
+Aplicação FullStack criada na semana OmniStack 11 da Rocketseat, utilizando NodeJS no backend, ReactJS no frontend
 e React Native no mobile.
 
 ## BackEnd
